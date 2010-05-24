@@ -3,7 +3,7 @@
 Plugin Name: YouTube mp3
 Plugin URI: http://www.youtube-mp3.org/
 Version: 1.0
-Author: <a href="http://www.youtube-mp3.org/">Philip</a>
+Author: Philip
 Description: Allow your readers to download embedded YouTube videos as mp3 files.
  
 Copyright 2010 www.youtube-mp3.org  (email: wp.plugin@youtube-mp3.org)
