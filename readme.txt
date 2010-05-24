@@ -1,6 +1,6 @@
 === YouTube mp3 ===
 Contributors: PhilipIsMyName
-Tags: youtube, mp3, download, convert, online, music, video
+Tags: youtube, mp3, download, convert, online, music, video, posts, post, plugin
 Requires at least: 2.0
 Tested up to: 2.9.2
 Stable tag: trunk
