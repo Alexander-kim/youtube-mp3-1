@@ -9,6 +9,7 @@ Allow your readers to download embedded YouTube videos as mp3 files.
 
 == Description ==
 
+<b>There is already an improved version of this plugin, you find it <a href="http://wordpress.org/extend/plugins/video-download/">here</a>!</b><br />
 With this plugin you can allow your readers to download embedded YouTube videos as mp3 files. You can also decide to limit this functionality to posts with certain tags.
 
 == Installation ==
